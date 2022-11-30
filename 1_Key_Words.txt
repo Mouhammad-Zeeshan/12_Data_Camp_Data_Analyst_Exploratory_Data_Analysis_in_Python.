@@ -1,0 +1,12 @@
+Exploratory Data Analysis in Python:	
+
+
+Chapter-01:
+1. df.replace()
+
+Chapter-03:
+1. voilon plot
+2. box plot 
+
+Chapter-04:
+1. statsmodel 
